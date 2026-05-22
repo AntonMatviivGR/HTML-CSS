@@ -1,0 +1,84 @@
+body {
+  font-family: Montserrat;
+}
+
+div {
+  margin: 0 0 32px 0;
+}
+
+.div1 {
+  text-align: center;
+}
+
+.New {
+  line-height: 8px;
+  color: rgb(250, 125, 0);
+  font-weight: 600;
+}
+
+h1, h3 {
+  line-height: 8px;
+  color: rgb(25, 25, 25);
+}
+
+.From {
+  font-weight: 400;
+  color: rgb(25, 25, 25);
+}
+
+button {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 16px;
+  font-weight: 600;
+  color: rgb(250, 250, 250);
+  background-color: rgb(80, 80, 250);
+}
+
+.div2 p {
+  margin: 0 0 8px 0;
+}
+
+.USD {
+  font-size: 32px;
+}
+
+.USD span {
+  font-size: 14px;
+  color: rgb(100, 100, 100);
+}
+
+.today {
+  color: rgb(75, 125, 75);
+}
+
+.After {
+  color: rgb(100, 100, 100);
+}
+
+.After span {
+  color: rgb(175, 50, 50);
+}
+
+.freeCodeCamp {
+  font-weight: 600;
+  margin: 0 0 4px 0;
+}
+
+.freeCodeCamp span {
+  font-weight: 400;
+  color: rgb(100, 100, 100);
+}
+
+.main {
+  width: 500px;
+  margin: 0;
+}
+
+.chp_it {
+  margin: 16px 0 8px 0;
+}
+
+.chp_it a {
+  color: rgb(100, 150, 225);
+}
