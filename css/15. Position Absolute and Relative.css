@@ -1,0 +1,41 @@
+body {
+  font-family: Roboto;
+  padding: 16px;
+}
+
+.div1 {
+  position: relative;
+  display: inline-block;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
+}
+
+img {
+  width: 320px;
+}
+
+.discount {
+  position: absolute;
+  top: 16px;
+  right: 0;
+  display: inline;
+  background-color: rgba(100, 100, 100);
+  color: rgb(250, 250, 250);
+  padding: 8px;
+  margin: 0;
+}
+
+.add {
+  position: absolute;
+  background-color: rgba(200, 200, 200, 0.8);
+  right: 0;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  padding: 24px 0;
+}
+
+button {
+  padding: 8px 16px;
+  border: 1px solid rgb(0, 0, 0);
+  cursor: pointer;
+}
